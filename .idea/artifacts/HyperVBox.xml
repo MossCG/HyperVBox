@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HyperVBox">
+    <output-path>$PROJECT_DIR$/out/artifacts/HyperVBox</output-path>
+    <root id="archive" name="HyperVBox.jar">
+      <element id="module-output" name="HyperVBox" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/depend/MossLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
